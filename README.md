@@ -173,11 +173,11 @@ End-to-End-NLP-Sentiment-Analysis/
 ├── .gitignore
 │
 └── images/
-    ├── class_distribution.png
-    ├── tfidf_confusion_matrix.png
-    ├── glove_confusion_matrix.png
-    ├── distilbert_confusion_matrix.png
-    └── model_comparison.png
+    ├── IMDb Training Dataset_ Sentiment Distribution.png
+    ├── Confusion Matrix - DistilBERT.png
+    ├── Confusion Matrix - GloVe + Logistic Regression.png
+    ├── Confusion Matrix - TF-IDF + Logistic Regression.png
+    └── Performance Comparison of NLP Approaches.png
 ```
 
 ## How to Run
@@ -201,7 +201,5 @@ The notebook downloads the required dataset and GloVe embeddings during executio
 ## Author
 
 **Warda Anees**
-
-MS Data Science | NUST
 
 Areas of Interest: Natural Language Processing, Large Language Models, Artificial Intelligence
